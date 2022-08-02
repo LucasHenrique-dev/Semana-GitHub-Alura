@@ -2,11 +2,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
+"Durante os 7 Days de GitHub, você vai praticar algo que além de importantíssimo, será muito divertido. Você irá criar, do zero, um repositório no GitHub usando um template. Posteriormente, você irá começar a fazer requisições para esse repositório, tanto manualmente quanto através da IDE do Visual Studio Code. Você irá trabalhar com muitos conceitos que colocarão à prova os seus conhecimentos de GitHub"
+
 <a href="https://7daysofcode.io/matricula/github">
   <img src="images-README/7daysofcode-github.jpg" alt="imagem do site 7DaysOfCode de GitHub">
 </a>
 
-"Durante os 7 Days de GitHub, você vai praticar algo que além de importantíssimo, será muito divertido. Você irá criar, do zero, um repositório no GitHub usando um template. Posteriormente, você irá começar a fazer requisições para esse repositório, tanto manualmente quanto através da IDE do Visual Studio Code. Você irá trabalhar com muitos conceitos que colocarão à prova os seus conhecimentos de GitHub"
+> Visualização da página para se inscrever no 7 Days Of Coode de GitHub da Alura.
 
 ## 📅 Cronograma
 ### Dia 1
