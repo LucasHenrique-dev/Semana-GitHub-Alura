@@ -3,7 +3,7 @@
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
 <a href="https://7daysofcode.io/matricula/github">
-  <img src="images-README/7daysofcode-github.png" alt="imagem do site 7DaysOfCode de GitHub">
+  <img src="images-README/7daysofcode-github.jpg" alt="imagem do site 7DaysOfCode de GitHub">
 </a>
 
 "Durante os 7 Days de GitHub, você vai praticar algo que além de importantíssimo, será muito divertido. Você irá criar, do zero, um repositório no GitHub usando um template. Posteriormente, você irá começar a fazer requisições para esse repositório, tanto manualmente quanto através da IDE do Visual Studio Code. Você irá trabalhar com muitos conceitos que colocarão à prova os seus conhecimentos de GitHub"
