@@ -10,6 +10,9 @@
 
 > Visualização da página para se inscrever no 7 Days Of Coode de GitHub da Alura.
 
+## 📝 Progressos
+Você pode checar a descrição dos desafios e ver meu progresso em: [Progressos](progressos)
+
 ## 📅 Cronograma
 ### Dia 1
 Já no primeiro dia, você vai criar manualmente o seu repositório no GitHub. Você também irá alterar o arquivo ReadMe do seu perfil.
