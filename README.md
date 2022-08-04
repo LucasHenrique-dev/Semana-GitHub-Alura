@@ -11,7 +11,7 @@
 > Visualização da página para se inscrever no 7 Days Of Coode de GitHub da Alura.
 
 ## 📝 Progressos
-Você pode checar a descrição dos desafios e ver meu progresso em: [Progressos](progressos)
+Você pode checar a descrição dos desafios e ver meu progresso em: [Progressos](progressos/progresso.md)
 
 ## 📅 Cronograma
 ### Dia 1

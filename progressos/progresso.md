@@ -2,10 +2,10 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## ℹ️ Conteúdos
-- [Proposta](#🎯-proposta)
-- [1° Dia](#📅-1°-dia)
-- [2° Dia](#📅-2°-dia)
-- [3° Dia](#📅-3°-dia)
+- [Proposta](#-proposta)
+- [1° Dia](#-1°-dia)
+- [2° Dia](#-2°-dia)
+- [3° Dia](#-3°-dia)
 
 ## 🎯 Proposta
 Esta página é dedicada a mostrar de forma visual e fácil o progresso que venho obtendo durante os desafios diários.
@@ -40,4 +40,4 @@ Você pode checar o progresso desse dia pelo próprio repositório 😉
 > Repositório do GitHub clonado para a IDE Visual Studio Code 
 
 
-[⬆ Voltar ao topo](#📝-progressos)
+[⬆ Voltar ao topo](#-progressos)
