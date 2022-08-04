@@ -3,9 +3,9 @@
 
 ## ℹ️ Conteúdos
 - [Proposta](#-proposta)
-- [1° Dia](#-1°-dia)
-- [2° Dia](#-2°-dia)
-- [3° Dia](#-3°-dia)
+- [1° Dia](#-1-dia)
+- [2° Dia](#-2-dia)
+- [3° Dia](#-3-dia)
 
 ## 🎯 Proposta
 Esta página é dedicada a mostrar de forma visual e fácil o progresso que venho obtendo durante os desafios diários.
