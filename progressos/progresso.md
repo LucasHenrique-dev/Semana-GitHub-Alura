@@ -39,5 +39,15 @@ Você pode checar o progresso desse dia pelo próprio repositório 😉
 
 > Repositório do GitHub clonado para a IDE Visual Studio Code 
 
+---
+### 📅 4° Dia
+
+- Tarefa: "A primeira parte do seu desafio de hoje será *alterar o arquivo "index.html" a partir do Visual Studio Code para que você tenha três filmes diferentes, cada um com a sua descrição, imagem e nota correspondente*.
+    A segunda e mais importante parte do desafio de hoje será *realizar o commit dessas alterações que você fez no código*. Você fará o commit diretamente a partir da aba "*Source Control*" do Visual Studio Code e passando uma mensagem explicando sobre o que se tratam as alterações."
+
+
+<img src="../images/progresso_dia4.png">
+
+> Visualização das alterações realizadas no código, diretamente da IDE Visual Studio Code
 
 [⬆ Voltar ao topo](#-progressos)
