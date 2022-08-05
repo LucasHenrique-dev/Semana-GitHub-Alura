@@ -6,6 +6,7 @@
 - [1° Dia](#-1-dia)
 - [2° Dia](#-2-dia)
 - [3° Dia](#-3-dia)
+- [4° Dia](#-4-dia)
 
 ## 🎯 Proposta
 Esta página é dedicada a mostrar de forma visual e fácil o progresso que venho obtendo durante os desafios diários.
@@ -43,6 +44,7 @@ Você pode checar o progresso desse dia pelo próprio repositório 😉
 ### 📅 4° Dia
 
 - Tarefa: "A primeira parte do seu desafio de hoje será *alterar o arquivo "index.html" a partir do Visual Studio Code para que você tenha três filmes diferentes, cada um com a sua descrição, imagem e nota correspondente*.
+
     A segunda e mais importante parte do desafio de hoje será *realizar o commit dessas alterações que você fez no código*. Você fará o commit diretamente a partir da aba "*Source Control*" do Visual Studio Code e passando uma mensagem explicando sobre o que se tratam as alterações."
 
 
