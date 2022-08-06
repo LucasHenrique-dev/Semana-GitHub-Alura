@@ -7,6 +7,7 @@
 - [2° Dia](#-2-dia)
 - [3° Dia](#-3-dia)
 - [4° Dia](#-4-dia)
+- [5° Dia](#-5-dia)
 
 ## 🎯 Proposta
 Esta página é dedicada a mostrar de forma visual e fácil o progresso que venho obtendo durante os desafios diários.
@@ -51,5 +52,17 @@ Você pode checar o progresso desse dia pelo próprio repositório 😉
 <img src="../images/progresso_dia4.png">
 
 > Visualização das alterações realizadas no código, diretamente da IDE Visual Studio Code
+
+---
+### 📅 5° Dia
+
+- Tarefa: "Primeiramente, você irá abrir o seu arquivo "index.html" no Visual Studio Code. Altere algo que vá quebrar o seu código (como o fechamento de uma ‘div’ ou de um ‘h2’) e faça o commit e o Push dessas alterações para a sua master. Pode tentar abrir o "index.html" para ver o erro.
+
+    O seu desafio de hoje será *reverter esse commit para remover o erro do seu código*."
+
+
+<img src="../images/progresso_dia5.png">
+
+> Visualização do comando "Revert" sendo aplicado, diretamente da IDE Visual Studio Code
 
 [⬆ Voltar ao topo](#-progressos)
