@@ -45,9 +45,9 @@ Você pode checar o progresso desse dia pelo próprio repositório 😉
 ---
 ### 📅 4° Dia
 
-- Tarefa: "A primeira parte do seu desafio de hoje será *alterar o arquivo "index.html" a partir do Visual Studio Code para que você tenha três filmes diferentes, cada um com a sua descrição, imagem e nota correspondente*.
+- Tarefa: "A primeira parte do seu desafio de hoje será **alterar o arquivo "index.html" a partir do Visual Studio Code para que você tenha três filmes diferentes, cada um com a sua descrição, imagem e nota correspondente**.
 
-    A segunda e mais importante parte do desafio de hoje será *realizar o commit dessas alterações que você fez no código*. Você fará o commit diretamente a partir da aba "*Source Control*" do Visual Studio Code e passando uma mensagem explicando sobre o que se tratam as alterações."
+    A segunda e mais importante parte do desafio de hoje será **realizar o commit dessas alterações que você fez no código**. Você fará o commit diretamente a partir da aba "**Source Control**" do Visual Studio Code e passando uma mensagem explicando sobre o que se tratam as alterações."
 
 
 <img src="../images/progresso_dia4.png">
@@ -59,7 +59,7 @@ Você pode checar o progresso desse dia pelo próprio repositório 😉
 
 - Tarefa: "Primeiramente, você irá abrir o seu arquivo "index.html" no Visual Studio Code. Altere algo que vá quebrar o seu código (como o fechamento de uma ‘div’ ou de um ‘h2’) e faça o commit e o Push dessas alterações para a sua master. Pode tentar abrir o "index.html" para ver o erro.
 
-    O seu desafio de hoje será *reverter esse commit para remover o erro do seu código*."
+    O seu desafio de hoje será **reverter esse commit para remover o erro do seu código**."
 
 
 <img src="../images/progresso_dia5.png">
@@ -75,7 +75,7 @@ Você pode checar o progresso desse dia pelo próprio repositório 😉
 
     Agora, ainda na aba "Source Control", clique nas reticências (...) e selecione a opção "Pull". Você verá que, ao fazer isso, a IDE irá te informar que houve um conflito de "merge" (mescla).
 
-    O seu desafio de hoje será *resolver esse conflito e fazer um commit do resultado do seu "merge"*. Dê preferência para realizar esse desafio usando os comandos diretamente no Terminal do Visual Studio Code."
+    O seu desafio de hoje será **resolver esse conflito e fazer um commit do resultado do seu "merge"**. Dê preferência para realizar esse desafio usando os comandos diretamente no Terminal do Visual Studio Code."
 
 
 <img src="../images/progresso_dia6.png">
