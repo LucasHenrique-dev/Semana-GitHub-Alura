@@ -8,6 +8,7 @@
 - [3° Dia](#-3-dia)
 - [4° Dia](#-4-dia)
 - [5° Dia](#-5-dia)
+- [6° Dia](#-6-dia)
 
 ## 🎯 Proposta
 Esta página é dedicada a mostrar de forma visual e fácil o progresso que venho obtendo durante os desafios diários.
@@ -64,5 +65,22 @@ Você pode checar o progresso desse dia pelo próprio repositório 😉
 <img src="../images/progresso_dia5.png">
 
 > Visualização do comando "Revert" sendo aplicado, diretamente da IDE Visual Studio Code
+
+---
+### 📅 6° Dia
+
+- Tarefa: "Acesse a página do seu repositório no GitHub e abra o arquivo "index.html". Clique no lápis para editá-lo e altere o texto de descrição do terceiro filme da lista. Ao terminar, vá até o final da página, insira uma mensagem e clique em "Commit changes", deixando selecionada a opção "Commit directly to the main branch".
+
+    Agora, abra o seu arquivo "index.html" dentro do Visual Studio Code, vá até o mesmo ponto do código e altere o texto de descrição do terceiro filme da lista por um texto diferente do original e também diferente do texto alterado diretamente no GitHub. Salve o arquivo, vá até a aba "Source Control", insira uma mensagem e faça o commit dessas alterações (seja clicando no símbolo de "correto" ou usando o atalho "CTRL+Enter" ou "Command+Enter".
+
+    Agora, ainda na aba "Source Control", clique nas reticências (...) e selecione a opção "Pull". Você verá que, ao fazer isso, a IDE irá te informar que houve um conflito de "merge" (mescla).
+
+    O seu desafio de hoje será *resolver esse conflito e fazer um commit do resultado do seu "merge"*. Dê preferência para realizar esse desafio usando os comandos diretamente no Terminal do Visual Studio Code."
+
+
+<img src="../images/progresso_dia6.png">
+
+> Visualização do conflito causado por alterações no código, diretamente da IDE Visual Studio Code
+
 
 [⬆ Voltar ao topo](#-progressos)
