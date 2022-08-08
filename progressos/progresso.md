@@ -9,6 +9,7 @@
 - [4° Dia](#-4-dia)
 - [5° Dia](#-5-dia)
 - [6° Dia](#-6-dia)
+- [7° Dia](#-7-dia)
 
 ## 🎯 Proposta
 Esta página é dedicada a mostrar de forma visual e fácil o progresso que venho obtendo durante os desafios diários.
@@ -82,5 +83,11 @@ Você pode checar o progresso desse dia pelo próprio repositório 😉
 
 > Visualização do conflito causado por alterações no código, diretamente da IDE Visual Studio Code
 
+---
+### 📅 7° Dia
+
+- Tarefa: **Colocar o projeto em produção usando o próprio GitHub**! Para isso a recomendação é usar o GitHub Pages.
+
+Você pode checar o progresso desse dia acessando o link disponível no repositório, ou clicando em: [Site Desafio GitHub](https://lucashenrique-dev.github.io/Semana-GitHub-Alura/)
 
 [⬆ Voltar ao topo](#-progressos)
